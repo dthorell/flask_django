@@ -10,6 +10,8 @@ flask = "*"
 django = "*"
 python-dotenv = "*"
 flask-wtf = "*"
+blinker = "*"
+flask-debugtoolbar = "*"
 
 [requires]
 python_version = "3.8"
